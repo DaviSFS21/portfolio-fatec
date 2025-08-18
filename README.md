@@ -4,14 +4,15 @@
 
 Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
 
+Olá! Me chamo Davi Soares, tenho 20 anos, e estou cursando Banco de Dados na Fatec
 
 <div align = center>
-<img src="https://avatars.githubusercontent.com/u/94925054?v=4" alt="eu" width="200" height="200">
+<img src="https://avatars.githubusercontent.com/u/94925054?v=4" alt="Davi Soares" width="200" height="200">
 </div>
 <div align = center>
- <a href="https://www.linkedin.com/in/dsf21/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="mailto:davisfs2110@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://github.com/DaviSFS21" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/dsf21/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Meu Linkedin"></a>
+ <a href="mailto:davisfs2110@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="E-mail"></a>
+ <a href="https://github.com/DaviSFS21" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github" target="_blank" alt="Meu Github"></a>
 </div>
  <br>
 
