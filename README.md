@@ -1,8 +1,8 @@
 # Portfólio das APIs — Davi Soares Fernandes dos Santos
 
-<img src="https://avatars.githubusercontent.com/u/94925054?v=4" alt="Davi Soares Fernandes dos Santos" width="150" align="right">
-
 ## Sobre mim
+
+<img src="https://avatars.githubusercontent.com/u/94925054?v=4" alt="Davi Soares Fernandes dos Santos" width="150">
 
 Estudante de Banco de Dados na Fatec São José dos Campos – Prof. Jessen Vidal e desenvolvedor de software na IACIT, em São José dos Campos, onde me especializo em DevOps e em backend com Spring.
 
